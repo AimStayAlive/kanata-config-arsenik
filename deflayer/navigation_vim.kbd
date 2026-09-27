@@ -2,6 +2,7 @@
 ;;  - right: Vim-like arrows on HJKL, home/end page up/down, mouse scroll
 ;;  - left: one-hand shortcuts (Cmd/Ctrl-WASZXCVY), Tab/Shift-Tab, prev/next
 ;;  - top: function keys
+;;  - NumRow on Sym+Shift
 
 ;; The `lrld` action stands for "live reload". This will re-parse everything
 ;; except for linux-dev, i.e. you cannot live reload and switch keyboard devices.
